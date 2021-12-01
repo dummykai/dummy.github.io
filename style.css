@@ -47,7 +47,7 @@ img {
  * ヘッダーコンテナ
  */
 .page-header {
-  background: url(../images/header-topline.svg) repeat-x;
+  background: url(./header-topline.svg) repeat-x;
   border-bottom: 1px solid #d8d8d8;
 }
 @media (min-width: 768px) {
@@ -98,12 +98,12 @@ img {
   display: block;
   width: 60px;
   height: 60px;
-  background-image: url(../images/nav-mobile-open.svg);
+  background-image: url(./nav-mobile-open.svg);
   background-repeat: no-repeat;
   background-position: center center;
 }
 .navbtn.close {
-  background-image: url(../images/nav-mobile-close.svg);
+  background-image: url(./nav-mobile-close.svg);
 }
 @media (min-width: 768px) {
   .navbtn {
@@ -213,7 +213,7 @@ img {
  * ページ下部コンテナ
  */
 .page-bottom {
-  background: url(../images/bottom-bg.svg);
+  background: url(./bottom-bg.svg);
 }
 .bottom-container {
   padding: 60px 4% 0 4%;
@@ -405,7 +405,7 @@ img {
 }
 /* ホーム - メインコンテナ */
 .home .page-main {
-  background: url(../images/home-bg.svg);
+  background: url(./home-bg.svg);
 }
 .home .main-container {
   padding: 60px 4%;
@@ -471,7 +471,7 @@ img {
   margin: 0 auto 30px auto;
   width: 130px;
   height: 130px;
-  background: url(../images/home-titleshape.svg) no-repeat;
+  background: url(./home-titleshape.svg) no-repeat;
   background-size: 130px 130px;
   color: #ffffff;
   font-family: 'Croissant One', cursive;
@@ -588,7 +588,7 @@ img {
   position: absolute;
   top: 5px;
   left: 5px;
-  background: url(../images/ranking-bg.svg);
+  background: url(./ranking-bg.svg);
   background-size: 35px 35px;
   border-radius: 50%;
   font-family: 'Croissant One', cursive;
@@ -689,7 +689,7 @@ img {
  */
 .post .main-container {
   padding: 80px 4% 0 4%;
-  background: url(../images/post-bg.svg) repeat-x;
+  background: url(./post-bg.svg) repeat-x;
   background-position: 0 10px;
 }
 @media (min-width: 768px) {
@@ -739,7 +739,7 @@ img {
   padding-bottom: 15px;
   font-size: .75rem;
   text-align: right;
-  background: url(../images/post-line.svg) bottom repeat-x;
+  background: url(./post-line.svg) bottom repeat-x;
 }
 .post-info span {
   margin: 0 10px 0 0;
@@ -916,7 +916,7 @@ img {
  */
 .sidebar-post .main-container {
   padding: 80px 4% 0 4%;
-  background: url(../images/post-bg.svg) repeat-x;
+  background: url(./post-bg.svg) repeat-x;
   background-position: 0 10px;
 }
 @media (min-width: 768px) {
@@ -965,7 +965,7 @@ img {
   width: 80px;
   height: 80px;
 
-  background: url(../images/side-titleshape.svg) no-repeat;
+  background: url(./side-titleshape.svg) no-repeat;
   color: #ffffff;
   font-family: 'Croissant One', cursive;
   font-weight: 400;
@@ -1070,7 +1070,7 @@ img {
   margin: 0 auto;
   padding: 60px 4%;
   max-width: 1040px;
-  background-image: url(../images/form-title-bg1.svg), url(../images/form-title-bg2.svg);
+  background-image: url(./form-title-bg1.svg), url(./form-title-bg2.svg);
   background-position: left top 10px, right top 10px;
   background-repeat: no-repeat;
 }
@@ -1140,7 +1140,7 @@ select {
   border: 1px solid #d8d8d8;
   padding: 4px 2rem 4px 4px;
   border-radius: 4px;
-  background: url(../images/caret-down.svg) no-repeat;
+  background: url(./caret-down.svg) no-repeat;
   background-position: right 6px center;
   background-size: 12px 12px;
   font-size: 16px;
