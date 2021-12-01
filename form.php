@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>学生食堂予約フォーム</title>
-  <link href="css/normalize.css" rel="stylesheet">
-  <link href="css/style.css" rel="stylesheet">
+  <link href="normalize.css" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap&subset=japanese" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Croissant+One&display=swap" rel="stylesheet">
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
@@ -15,7 +15,7 @@
   <div class="header-container">
     <div class="sitetitle">
       <h1 class="header-logo">
-        <a href="index.html"><img src="./images/sus.png" alt="Tansaku!"></a>
+        <a href="index.html"><img src="sus.png" alt="Tansaku!"></a>
       </h1>
       <div class="navbtn"></div><!-- モバイル用ナビゲーション開閉ボタン。class="close"をつけるとバツになる -->
     </div>
